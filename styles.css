@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+:root {
+	background-color:rgb(135,206,235);
+}
+p:first-child {
+	color:white;
+	background-color:black;
+}
+p:nth-child() {
+	
+}
+p:last-child {
+	color:red;
+}
+ul {
+	width: 50%;
+	padding:10px;
+}
+.list {
+	background-color:white;
+	font-size:22px;
+}
+.list1 {
+	background-color:grey;
+}
+#list2 {
+	background-color:pink;
+}
